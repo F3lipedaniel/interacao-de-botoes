@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: black;
+}
+
+.elemento {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagem11 {
+  width: 400px;
+  border-radius: 11px;
+}
+
+.NomeLoja {
+  cursor: pointer;
+  text-align: center;
+  cursor: pointer;
+  background: #5a0707;
+  background: linear-gradient(#5a0707, #9f1414);
+  border-radius: 11px;
+  padding: 10px 17px;
+  color: #ffffff;
+  display: inline-block;
+  font: normal bold 26px/1 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.botao1 {
+  cursor: pointer;
+  background: #5a0707;
+  background: linear-gradient(#5a0707, #9f1414);
+  border-radius: 11px;
+  padding: 10px 17px;
+  color: #ffffff;
+  display: inline-block;
+  font: normal bold 26px/1 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.botao2 {
+  cursor: pointer;
+  background: #5a0707;
+  background: linear-gradient(#5a0707, #9f1414);
+  border-radius: 11px;
+  padding: 10px 17px;
+  color: #ffffff;
+  display: inline-block;
+  font: normal bold 26px/1 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.botao3 {
+  cursor: pointer;
+  background: #5a0707;
+  background: linear-gradient(#5a0707, #9f1414);
+  border-radius: 11px;
+  padding: 10px 17px;
+  color: #ffffff;
+  display: inline-block;
+  font: normal bold 26px/1 'Open Sans', sans-serif;
+  text-align: center;
+}
